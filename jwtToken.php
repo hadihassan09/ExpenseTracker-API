@@ -70,4 +70,3 @@ function verifyJWT($jwt){
         return false;
     }
 }
-

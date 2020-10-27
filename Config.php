@@ -30,5 +30,3 @@ Class Config
         $this->connection->close();
     }
 }
-
-
